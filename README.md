@@ -1,7 +1,7 @@
 # Solidity-Design-Patterns
 A list of solidity design Patterns
 
-# Solidity Withdrawal Pattern
+1.### Solidity Withdrawal Pattern
 
-# Solidity Proxy Pattern
+2.### Solidity Proxy Pattern
 
